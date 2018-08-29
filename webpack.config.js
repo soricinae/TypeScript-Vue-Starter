@@ -66,7 +66,8 @@ module.exports = {
   devtool: '#eval-source-map',
   plugins: [
     new VueLoaderPlugin()
-  ]
+  ],
+  mode: "development"
 }
 
 if (process.env.NODE_ENV === 'production') {
