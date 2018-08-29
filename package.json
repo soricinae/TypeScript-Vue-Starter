@@ -17,15 +17,15 @@
   "dependencies": {
     "vue": "^2.5.2",
     "vue-class-component": "^6.0.0",
-    "vue-property-decorator": "^6.0.0",
+    "vue-property-decorator": "^7.0.0",
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
-    "css-loader": "^0.28.1",
-    "ts-loader": "^2.0.3",
-    "typescript": "^2.7.2",
-    "vue-loader": "^12.0.3",
+    "css-loader": "^1.0.0",
+    "ts-loader": "^4.5.0",
+    "typescript": "^3.0.1",
+    "vue-loader": "^15.4.1",
     "vue-template-compiler": "^2.5.2",
-    "webpack": "^2.5.0"
+    "webpack": "^4.17.1",
   }
 }
