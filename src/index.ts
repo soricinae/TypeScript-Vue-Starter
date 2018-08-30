@@ -1,3 +1,6 @@
+import * as $ from "jquery";
+import "bootstrap";
+import "bootstrap/dist/css/bootstrap.min.css";
 import Vue from "vue";
 import HelloComponent from "./components/Hello.vue";
 import HelloDecoratorComponent from "./components/HelloDecorator.vue";
