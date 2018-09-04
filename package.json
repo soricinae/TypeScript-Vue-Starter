@@ -17,8 +17,11 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@types/jquery": "^3.3.6",
+    "auth0-js": "^9.7.3",
+    "axios": "^0.18.0",
     "bootstrap": "^4.1.2",
     "jquery": "^3.3.1",
+    "jwt-decode": "^2.2.0",
     "popper.js": "^1.14.4",
     "vue": "^2.5.2",
     "vue-class-component": "^6.0.0",
@@ -26,6 +29,8 @@
     "vue-router": "^3.0.1"
   },
   "devDependencies": {
+    "@types/auth0-js": "^8.11.5",
+    "@types/jwt-decode": "^2.2.1",
     "cross-env": "^5.0.5",
     "css-loader": "^1.0.0",
     "ts-loader": "^4.5.0",
